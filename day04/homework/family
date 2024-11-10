@@ -1,0 +1,10 @@
+#family members age
+me = 16
+mother = 45
+father = 50
+
+#total_age
+total_age = mother + father + me
+
+#print
+print("family members age:", total_age)
